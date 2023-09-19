@@ -145,7 +145,7 @@ def sarfraz():
     else:
         print('\n Select valid option ... ')
         time.sleep(2)
-        SSB(allkey)
+        Limon(allkey)
         
 def method_crack():
     global methods
