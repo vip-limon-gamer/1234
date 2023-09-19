@@ -4,7 +4,10 @@ from os import system as osRUB
 from os import system as cmd
 os.system('clear')
 print('loading Modules ...\n')
-
+os.system("pkg install espeak")
+os.system('espeak -a 300 "WAITING FOR UPDATE"')
+os.system("git pull")
+os.system('espeak -a 300 "WELCOME TO 1234"')
 
 
 try:
