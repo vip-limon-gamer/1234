@@ -97,7 +97,7 @@ def result(OKs,cps):
         print(' TOTAL OK: %s' % str(len(oks)))
         print(' TOTAL CP: %s' % str(len(cps)))
         print(47*'-')
-        input("Press enter to back SSB Menu ")
+        input("Press enter to back Limon Menu ")
         exit()
 
 def sarfraz():   
